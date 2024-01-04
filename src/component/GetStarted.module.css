@@ -1,0 +1,25 @@
+.arrowIconDiv{
+    display:flex;
+background-color: #ea5341;
+padding:10px 10px;
+border-radius: 50%;
+justify-content: center;
+align-items: center;
+}
+
+.getStarted >p{
+    margin-right: 5px;
+}
+
+.getStarted{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border:1px solid grey;
+    column-gap: 0.5rem;
+    padding:0px 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 200px;
+    
+    }
+    

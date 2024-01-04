@@ -1,0 +1,38 @@
+.mainContainer{
+    display:flex;
+    justify-content:space-between;
+    padding : 0.4rem 3rem;
+}
+.logoContainer{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    column-gap: 0.4rem;
+}
+
+.logoContainer>p{
+    color:#ea5341;
+    font-weight: 700;
+}
+.optionsContainer{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.optionsTab{
+    display:flex;
+    justify-content:space-between;
+    padding : 0.1rem 1rem;
+    align-items: center;
+}
+
+.lastContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 2rem;
+
+}
+
+
